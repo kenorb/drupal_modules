@@ -124,3 +124,9 @@
 [submodule "_other_/drupal_sandbox"]
 	path = _other_/drupal_sandbox
 	url = git@github.com:kenorb/drupal_sandbox.git
+[submodule "regression"]
+	path = regression
+	url = http://git.drupal.org/project/regression.git
+[submodule "charts"]
+	path = charts
+	url = http://git.drupal.org/project/charts.git
