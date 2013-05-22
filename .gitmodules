@@ -1,0 +1,126 @@
+[submodule "booking_timeslots"]
+	path = booking_timeslots
+	url = http://git.drupal.org/project/booking_timeslots.git
+[submodule "drupal_tweaks"]
+	path = drupal_tweaks
+	url = http://git.drupal.org/project/drupal_tweaks.git
+[submodule "dtools"]
+	path = dtools
+	url = http://git.drupal.org/project/dtools.git
+[submodule "ads"]
+	path = ads
+	url = http://git.drupal.org/project/ads.git
+[submodule "postcodeanywhere"]
+	path = postcodeanywhere
+	url = http://git.drupal.org/project/postcodeanywhere.git
+[submodule "nodeaccess_autoreference"]
+	path = nodeaccess_autoreference
+	url = http://git.drupal.org/project/nodeaccess_autoreference.git
+[submodule "ads_features"]
+	path = ads_features
+	url = http://git.drupal.org/project/ads_features.git
+[submodule "debugger"]
+	path = debugger
+	url = http://git.drupal.org/project/debugger.git
+[submodule "deeplink"]
+	path = deeplink
+	url = http://git.drupal.org/project/deeplink.git
+[submodule "_drupal6_/account_profile"]
+	path = _drupal6_/account_profile
+	url = http://git.drupal.org/project/account_profile.git
+[submodule "ajax_trigger"]
+	path = ajax_trigger
+	url = http://git.drupal.org/project/ajax_trigger.git
+[submodule "_drupal6_/personalized_settings"]
+	path = _drupal6_/personalized_settings
+	url = http://git.drupal.org/project/personalized_settings.git
+[submodule "db_tweaks"]
+	path = db_tweaks
+	url = http://git.drupal.org/project/db_tweaks.git
+[submodule "apachesolr_views"]
+	path = apachesolr_views
+	url = http://git.drupal.org/project/apachesolr_views.git
+[submodule "genmod"]
+	path = genmod
+	url = http://git.drupal.org/project/genmod.git
+[submodule "magic_cache"]
+	path = magic_cache
+	url = http://git.drupal.org/project/magic_cache.git
+[submodule "_drupal6_/fastpath_fscache"]
+	path = _drupal6_/fastpath_fscache
+	url = http://git.drupal.org/project/fastpath_fscache.git
+[submodule "pimport"]
+	path = pimport
+	url = http://git.drupal.org/project/pimport.git
+[submodule "money"]
+	path = money
+	url = http://git.drupal.org/project/money.git
+[submodule "spellchecker"]
+	path = spellchecker
+	url = http://git.drupal.org/project/spellchecker.git
+[submodule "_drupal6_/php4"]
+	path = _drupal6_/php4
+	url = http://git.drupal.org/project/php4.git
+[submodule "_drupal6_/legal_extras"]
+	path = _drupal6_/legal_extras
+	url = http://git.drupal.org/project/legal_extras.git
+[submodule "_drupal6_/msg2log"]
+	path = _drupal6_/msg2log
+	url = http://git.drupal.org/project/msg2log.git
+[submodule "simpletest_automator"]
+	path = simpletest_automator
+	url = http://git.drupal.org/project/simpletest_automator.git
+[submodule "deathbycaptcha"]
+	path = deathbycaptcha
+	url = http://git.drupal.org/project/deathbycaptcha.git
+[submodule "fgit"]
+	path = fgit
+	url = http://git.drupal.org/project/formatted_number.git
+[submodule "voucher_field"]
+	path = voucher_field
+	url = http://git.drupal.org/project/voucher_field.git
+[submodule "cql"]
+	path = cql
+	url = http://git.drupal.org/project/cql.git
+[submodule "search_api_ranges"]
+	path = search_api_ranges
+	url = http://git.drupal.org/project/search_api_ranges.git
+[submodule "_drupal6_/cck_time"]
+	path = _drupal6_/cck_time
+	url = http://git.drupal.org/project/cck_time.git
+[submodule "_drupal6_/crumbs_plus"]
+	path = _drupal6_/crumbs_plus
+	url = http://git.drupal.org/project/crumbs_plus.git
+[submodule "view_own"]
+	path = view_own
+	url = http://git.drupal.org/project/view_own.git
+[submodule "controls"]
+	path = controls
+	url = http://git.drupal.org/project/controls.git
+[submodule "formatted_number"]
+	path = formatted_number
+	url = http://git.drupal.org/project/formatted_number.git
+[submodule "_drupal6_/custom_templates"]
+	path = _drupal6_/custom_templates
+	url = http://git.drupal.org/project/custom_templates.git
+[submodule "sword"]
+	path = sword
+	url = http://git.drupal.org/project/sword.git
+[submodule "_drupal6_/nodepreview_by_type"]
+	path = _drupal6_/nodepreview_by_type
+	url = http://git.drupal.org/project/nodepreview_by_type.git
+[submodule "simpletest"]
+	path = simpletest
+	url = http://git.drupal.org/project/simpletest.git
+[submodule "tor"]
+	path = tor
+	url = http://git.drupal.org/project/tor.git
+[submodule "_drupal6_/regexpal"]
+	path = _drupal6_/regexpal
+	url = http://git.drupal.org/project/regexpal.git
+[submodule "sru"]
+	path = sru
+	url = http://git.drupal.org/project/sru.git
+[submodule "_other_/drupal_sandbox"]
+	path = _other_/drupal_sandbox
+	url = git@github.com:kenorb/drupal_sandbox.git
