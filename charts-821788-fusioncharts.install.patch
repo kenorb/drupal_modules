@@ -1,0 +1,15 @@
+diff --git a/fusioncharts/fusioncharts.install b/fusioncharts/fusioncharts.install
+index 4e6df03..52afa8d 100644
+--- a/fusioncharts/fusioncharts.install
++++ b/fusioncharts/fusioncharts.install
+@@ -9,7 +9,9 @@
+  * Implementation of hook_requirements().
+  */
+ function fusioncharts_requirements($phase) {
+-  $path = file_create_path() . '/fusioncharts';
++  $path = 'public://fusioncharts';
++  file_prepare_directory($path, FILE_CREATE_DIRECTORY);
++  $path = drupal_realpath($path);
+   if (!file_exists($path . '/MSLine.swf')) {
+     $requirements['charts']['title']        = t('FusionCharts');
+     $requirements['charts']['value']        = t('FusionCharts flash files not installed');
