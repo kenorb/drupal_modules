@@ -130,3 +130,6 @@
 [submodule "charts"]
 	path = charts
 	url = http://git.drupal.org/project/charts.git
+[submodule "fastpath_fscache"]
+	path = fastpath_fscache
+	url = http://git.drupal.org/project/fastpath_fscache.git
